@@ -1,0 +1,4 @@
+$include /etc/inputrc
+
+# Disable bracketed paste.
+set enable-bracketed-paste off
