@@ -15,3 +15,4 @@ cd ~/src
 git clone git@github.com:lkarydas/dotfiles.git
 ln -sf ~/src/dotfiles/.inputrc ~/.inputrc
 ln -sf ~/src/dotfiles/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
+ln -sf ~/src/dotfiles/.tmux.conf ~/.tmux.conf
