@@ -26,6 +26,16 @@ curl -o ~/.config/kitty/mocha.conf https://raw.githubusercontent.com/catppuccin/
 ln -sf ~/src/dotfiles/kitty/kitty.conf ~/.config/kitty/kitty.conf
 ```
 
+# kitty
+
+Select a theme.
+
+```
+kitty +kitten themes
+```
+
+And select Catputchin-Mocchiatosomething.
+
 ## Hyprland
 
 ```shell
